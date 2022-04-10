@@ -1,0 +1,230 @@
+[
+  {
+    "name": "Burger King",
+    "address": "12525 88 Ave, Surrey, BC V3W 3J7",
+    "delivery_charge": 3.5,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Burger_King_2020.svg/825px-Burger_King_2020.svg.png",
+    "hours": {
+      "Sunday": "8:00 AM - :12:00 PM",
+      "Monday": "8:00 AM - :12:00 PM",
+      "Tuesday": "8:00 AM - :12:00 PM",
+      "Wednesday": "8:00 AM - :12:00 PM",
+      "Thursday": "8:00 AM - :12:00 PM",
+      "Friday": "8:00 AM - :12:00 PM",
+      "Saturday": "8:00 AM - :12:00 PM"
+    },
+    "menus": [
+      {
+        "name": "Whopper Melt",
+        "price": 7.99,
+        "url": "https://cdn.sanity.io/images/czqk28jt/prod_bk_us/2e4a005566a4442cc3a43a0de33e418aaa8bb2bb-1333x1333.png?w=320&q=40&fit=max&auto=format"
+      },
+      {
+        "name": "Big King",
+        "price": 13.99,
+        "url": "https://cdn.sanity.io/images/czqk28jt/prod_bk_us/d06846598b47ff0ae865299a30b2826993567e9c-1333x1333.png?w=320&q=40&fit=max&auto=format"
+      },
+      {
+        "name": "Double Cheeseburger",
+        "price": 4.99,
+        "url": "https://cdn.sanity.io/images/czqk28jt/prod_bk_us/ec3374f3e3ae162fabaf73a299b4d3042269ed6a-1333x1333.png?w=320&q=40&fit=max&auto=format"
+      },
+      {
+        "name": "Chicken Nuggets",
+        "price": 6.49,
+        "url": "https://cdn.sanity.io/images/czqk28jt/prod_bk_us/be575766437c7a4461c097922b8de91438bdce9d-1333x1333.png?w=320&q=40&fit=max&auto=format"
+      },
+      {
+        "name": "Chicken Fries",
+        "price": 4.00,
+        "url": "https://cdn.sanity.io/images/czqk28jt/prod_bk_us/840fba2112775ceeff32c96d1ac01131b7e96a03-1333x1333.png?w=320&q=40&fit=max&auto=format"
+      },
+      {
+        "name": "Onion Rings ",
+        "price": 3.25,
+        "url": "https://cdn.sanity.io/images/czqk28jt/prod_bk_us/3cbd7749633784fd04096cf4a12d500280663c02-1333x1333.png?w=320&q=40&fit=max&auto=format"
+      },
+      {
+        "name": "OREO Cookie Shake",
+        "price": 5.49,
+        "url": "https://cdn.sanity.io/images/czqk28jt/prod_bk_us/37078b3ec851acc9d27a8024cfeedb7c1ce23b46-1333x1333.png?w=320&q=40&fit=max&auto=format"
+      },
+      {
+        "name": "2 Chocolate Chip Cookies",
+        "price": 3.99,
+        "url": "https://cdn.sanity.io/images/czqk28jt/prod_bk_us/9532a9347bdd321b0f4ef1d2a08ca68c9ac2eceb-1333x1333.png?w=320&q=40&fit=max&auto=format"
+      },
+      {
+        "name": "HERSHEY'S Sundae Pie",
+        "price": 8.09,
+        "url": "https://cdn.sanity.io/images/czqk28jt/prod_bk_us/6e2dce514e8228f66b4931971d8428973ccbb410-1333x1333.png?w=320&q=40&fit=max&auto=format"
+      },
+      {
+        "name": "Soft Serve Cone",
+        "price": 3.59,
+        "url": "https://cdn.sanity.io/images/czqk28jt/prod_bk_us/4498579d52cbd5d5b381bfda0f914a585c0da77a-1333x1333.png?w=320&q=40&fit=max&auto=format"
+      }
+    ]
+  },
+  {
+    "name": "Tim Hortons",
+    "address": "9595 King George Blvd, Surrey, BC V3V 5W4",
+    "delivery_charge": 4,
+    "image": "https://1000logos.net/wp-content/uploads/2021/08/Tim-Hortons-Logo.jpg",
+    "hours": {
+      "Sunday": "24 Hours",
+      "Monday": "24 Hours",
+      "Tuesday": "24 Hours",
+      "Wednesday": "24 Hours",
+      "Thursday": "24 Hours",
+      "Friday": "24 Hours",
+      "Saturday": "24 Hours"
+    },
+    "menus": [
+      {
+        "name": "Egg & Cheese",
+        "price": 5.99,
+        "url": "https://cdn.sanity.io/images/czqk28jt/prod_th_ca/095c4da18ac06d0f7e724de7e6f0d7745079dfda-8688x5792.png?w=320&q=40&fit=max&auto=format"
+      },
+      {
+        "name": "Farmer's Breakfast Wrap",
+        "price": 10.59,
+        "url": "https://cdn.sanity.io/images/czqk28jt/prod_th_ca/c34b5dd9b746cfaa71b7993b2e628b8eb63dac7b-619x622.png?rect=0,108,595,514&w=320&q=40&fit=max&auto=format"
+      },
+      {
+        "name": "Hash Brown",
+        "price": 5.44,
+        "url": "https://cdn.sanity.io/images/czqk28jt/prod_th_ca/f518f5cf3c580063f1ae4b948c422694eb5b963a-622x621.png?w=320&q=40&fit=max&auto=format"
+      },
+      {
+        "name": "Crispy Chicken Craveables",
+        "price": 8.35,
+        "url": "https://cdn.sanity.io/images/czqk28jt/prod_th_ca/85e3993394c322d224c81cd69947ce1e9f9f90b3-5792x3861.png?rect=1598,265,3166,2964&w=320&q=40&fit=max&auto=format"
+      },
+      {
+        "name": "Vanilla Dip Donut",
+        "price": 2.49,
+        "url": "https://cdn.sanity.io/images/czqk28jt/prod_th_ca/b015d3821560ede73dffca4ed18c3b55ebd4e832-600x400.png?w=320&q=40&fit=max&auto=format"
+      },
+      {
+        "name": "Chocolate Dip Donut",
+        "price": 2.95,
+        "url": "https://cdn.sanity.io/images/czqk28jt/prod_th_ca/d3af2a306ead0b671771e09608d090129692977d-8688x5792.png?rect=640,0,8048,4839&w=320&q=40&fit=max&auto=format"
+      },
+      {
+        "name": "Chocolate Eclair",
+        "price": 3.59,
+        "url": "https://cdn.sanity.io/images/czqk28jt/prod_th_ca/f6d8e5c892721e8539c9954de71abc51ce7dabeb-632x602.png?w=320&q=40&fit=max&auto=format"
+      },
+      {
+        "name": "Iced Coffee",
+        "price": 3.5,
+        "url": "https://cdn.sanity.io/images/czqk28jt/prod_th_ca/6ae91ad0f2625608266ad0c605c3e4320fab096e-8688x5792.png?w=320&q=40&fit=max&auto=format"
+      },
+      {
+        "name": "Mocha Iced Capp",
+        "price": 5.69,
+        "url": "https://cdn.sanity.io/images/czqk28jt/prod_th_ca/0d56a622df315eabb487ca3d580fbc055d04f275-1024x1024.png?w=320&q=40&fit=max&auto=format"
+      },
+      {
+        "name": "Brewed Coffee",
+        "price": 2.70,
+        "url": "https://cdn.sanity.io/images/czqk28jt/prod_th_ca/9b95155cf6e531baf0c1052737e772a8ebc6e989-837x847.png?w=320&q=40&fit=max&auto=format"
+      }
+    ]
+  },
+  {
+    "name": "Planet India Restaurant",
+    "address": "13775 72 Ave #17, Surrey, BC V3W 1Z9",
+    "delivery_charge": 5,
+    "image": "https://scontent.fyvr4-1.fna.fbcdn.net/v/t31.18172-8/414539_301908419903156_2113808846_o.jpg?_nc_cat=100&ccb=1-5&_nc_sid=973b4a&_nc_ohc=TrMu1kU2sKAAX9CPUZt&_nc_ht=scontent.fyvr4-1.fna&oh=00_AT_U-LYA8cD8_lYXmswsz_Ao3C6rmnR5nJ_fL5dk-d1NHw&oe=626E39BF",
+    "hours": {
+      "Sunday": "12:00 AM - 10:30 PM",
+      "Monday": "11:30 AM - 10:30 PM",
+      "Tuesday": "11:30 AM - 10:30 PM",
+      "Wednesday": "11:30 AM - 10:30 PM",
+      "Thursday": "11:30 AM - 10:30 PM",
+      "Friday": "11:30 AM - 11:00 PM",
+      "Saturday": "11:30 AM - 11:00 PM"
+    },
+    "menus": [
+      {
+        "name": "Veggie pakora",
+        "price": 6.95,
+        "url": "https://soyummyrecipes.co.uk/wp-content/uploads/2021/01/vegetable-pakora-1-720x720.jpg"
+      },
+      {
+        "name": "Chicken Strips",
+        "price": 8.59,
+        "url": "https://images-gmi-pmc.edge-generalmills.com/3973d54d-0004-4c06-a9d1-0843f3bf3efa.jpg"
+      },
+      {
+        "name": "Chicken Tikke",
+        "price": 12.49,
+        "url": "https://glebekitchen.com/wp-content/uploads/2016/12/chickentikkakebab.jpg"
+      },
+      {
+        "name": "Shahi Paneer",
+        "price": 13.99,
+        "url": "https://static.toiimg.com/photo/52446409.cms"
+      },
+      {
+        "name": "Chilli Chicken",
+        "price": 14.29,
+        "url": "https://www.indianhealthyrecipes.com/wp-content/uploads/2018/07/chilli-chicken-recipe-500x500.jpg"
+      },
+      {
+        "name": "Chilli Prawn",
+        "price": 17.99,
+        "url": "https://www.indianhealthyrecipes.com/wp-content/uploads/2018/06/chilli-prawns-recipe.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Lucky Horse Chinese Restaurant",
+    "address": "13737 72 Ave #125, Surrey, BC V3W 2P2",
+    "delivery_charge": 6,
+    "image": "https://luckyhorsesurrey.com/wp-content/uploads/2019/01/logo.jpg",
+    "hours": {
+      "Sunday": "10:30 AM - 10:00 PM",
+      "Monday": "10:30 AM - 10:00 PM",
+      "Tuesday": "10:30 AM - 10:00 PM",
+      "Wednesday": "10:30 AM - 10:00 PM",
+      "Thursday": "10:30 AM - 10:00 PM",
+      "Friday": "10:30 AM - 10:00 PM",
+      "Saturday": "10:30 AM - 10:00 PM"
+    },
+    "menus": [
+      {
+        "name": "Spring Roll",
+        "price": 9.00,
+        "url": "https://redhousespice.com/wp-content/uploads/2021/12/whole-spring-rolls-and-halved-ones-scaled.jpg"
+      },
+      {
+        "name": "Vegie/Chicken Momos",
+        "price": 8.25,
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Momo_nepal.jpg/1200px-Momo_nepal.jpg"
+      },
+      {
+        "name": "Chow mein",
+        "price": 7.49,
+        "url": "https://www.jessicagavin.com/wp-content/uploads/2018/01/chow-mein-1200.jpg"
+      },
+      {
+        "name": "Kung Pao Chicken",
+        "price": 12.99,
+        "url": "https://thewoksoflife.com/wp-content/uploads/2019/04/kung-pao-chicken-11.jpg"
+      },
+      {
+        "name": "Ma Po Tofu",
+        "price": 10.09,
+        "url": "https://kirbiecravings.com/wp-content/uploads/2018/12/mapo-tofu-9-1.jpg"
+      },
+      {
+        "name": "Fried Rice",
+        "price": 9.49,
+        "url": "https://www.simplyrecipes.com/thmb/t0PHmOn0M5y1qBdcHvbDWs182Kc=/1780x1335/smart/filters:no_upscale()/__opt__aboutcom__coeus__resources__content_migration__simply_recipes__uploads__2017__12__2017-12-Chicken-Fried-Rice-2-15ac7014b47b40a1a7c7e20a638f4295.jpg"
+      }
+    ]
+  }
+]
